@@ -1,1 +1,16 @@
 
+{
+  "id": "roche-tarot",
+  "name": "Astral Tarot",
+  "version": "1.0.0",
+  "description": "A mysterious cosmic tarot game with character interactions and AI-powered readings.",
+  "entry": "https://raw.githubusercontent.com/goldfuchs0921-ui/roche-tarot/main/plugin.js",
+  "permissions": [
+    "persona:read",
+    "character:read",
+    "ai:chat",
+    "storage",
+    "ui"
+  ]
+}
+
