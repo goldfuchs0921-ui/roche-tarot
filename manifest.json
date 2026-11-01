@@ -1,12 +1,16 @@
 {
-  "id": "roche-tarot",
-  "name": "Astral Tarot",
+  "id": "tarot-table",
+  "name": "塔罗桌",
   "version": "1.0.0",
-  "description": "A mysterious cosmic tarot game with character interactions and AI-powered readings.",
-  "entry": "https://raw.githubusercontent.com/goldfuchs0921-ui/roche-tarot/main/plugin.js",
+  "description": "塔罗牌解读 char，char 当场反驳，你来当裁判。支持问牌与 char 自占。",
+  "author": "GoldFuchs",
+  "entry": "https://raw.githubusercontent.com/用户名/仓库名/main/plugin.js",
+  "hash": "",
   "permissions": [
     "persona:read",
     "character:read",
+    "memory:read",
+    "memory:write",
     "ai:chat",
     "storage",
     "ui"
