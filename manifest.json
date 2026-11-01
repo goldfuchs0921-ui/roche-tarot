@@ -1,9 +1,9 @@
 {
   "id": "tarot-table",
   "name": "塔罗桌",
-  "version": "1.0.0",
+  "version": "3.0.0",
   "description": "塔罗牌解读 char，char 当场反驳，你来当裁判。支持问牌与 char 自占。",
-  "author": "GoldFuchs",
+  "author": "一片羽毛",
   "entry": "https://raw.githubusercontent.com/goldfuchs0921-ui/roche-tarot/main/plugin.js",
   "hash": "",
   "permissions": [
