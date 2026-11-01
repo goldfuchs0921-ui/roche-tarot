@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "description": "塔罗牌解读 char，char 当场反驳，你来当裁判。支持问牌与 char 自占。",
   "author": "GoldFuchs",
-  "entry": "https://raw.githubusercontent.com/用户名/仓库名/main/plugin.js",
+  "entry": "https://raw.githubusercontent.com/goldfuchs0921-ui/roche-tarot/main/plugin.js",
   "hash": "",
   "permissions": [
     "persona:read",
