@@ -1,7 +1,7 @@
 {
   "id": "tarot-table",
   "name": "塔罗桌",
-  "version": "3.0.0",
+  "version": "4.0.0",
   "description": "塔罗牌解读 char，char 按自己的人设回应，你来站队。支持问牌与 char 自占。",
   "author": "GoldFuchs",
   "entry": "https://raw.githubusercontent.com/goldfuchs0921-ui/roche-Tarot/main/plugin.js",
