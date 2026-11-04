@@ -1,18 +1,10 @@
 {
   "id": "tarot-table",
   "name": "塔罗桌",
-  "version": "4.0.0",
-  "description": "塔罗牌解读 char，char 按自己的人设回应，你来站队。支持问牌与 char 自占。",
-  "author": "GoldFuchs",
+  "version": "4.0.1",
+  "description": "问牌与自占、站队互动、记忆写入、牌局回放 — 让 char 和塔罗各执一词",
+  "author": "GoldFuchs & Claude",
   "entry": "https://raw.githubusercontent.com/goldfuchs0921-ui/roche-Tarot/main/plugin.js",
   "hash": "",
-  "permissions": [
-    "persona:read",
-    "character:read",
-    "memory:read",
-    "memory:write",
-    "ai:chat",
-    "storage",
-    "ui"
-  ]
+  "permissions": ["storage", "ui", "persona:read", "character:read", "memory:read", "memory:write", "ai:chat"]
 }
